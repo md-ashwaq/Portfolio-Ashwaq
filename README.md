@@ -86,12 +86,6 @@ Put your resume PDF here:
    - `public/certificates/`
 2. Ensure `data/certificates.ts` matches the exact filenames.
 
-## Deploy (free)
-
-- **Vercel** (recommended for Next.js): connect GitHub → auto deploy
-- **Netlify**: connect GitHub → auto deploy
-- **Cloudflare Pages**: connect GitHub → auto deploy
-
 ## Author
 
 **Mohammed Ashwaq**
